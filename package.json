@@ -1,0 +1,17 @@
+{
+  "name": "jest-and-nodemailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:e7h4n/jest-and-nodemailer.git",
+  "author": "zhangyc <zhangyc@yuanfudao.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.4.5",
+    "nodemailer": "^6.7.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-typescript": "^7.16.5",
+    "@types/jest": "^27.0.3"
+  }
+}
